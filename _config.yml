@@ -1,1 +1,8 @@
+title: SuperDark Blog
+description: A blog about Game Engines and other topics.
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-hacker
+
+exclude:
+   - .jekyll-cache

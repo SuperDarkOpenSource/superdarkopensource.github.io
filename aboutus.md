@@ -9,12 +9,9 @@ We are a group Software Engineers with a background in graphics.
 ## James Sumihiro
 * * *
 
-Insert text here.
+* [LinkedIn](https://www.linkedin.com/in/james-sumihiro-649528162/)
 
-* [LinkedIn](www.linkedin.com/in/russell-johnson--)
-
-* [Github](https://github.com/EncryptedData)
-
+* [Github](https://github.com/JHorace)
 
 
 ## Russell Johnson

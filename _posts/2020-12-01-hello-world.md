@@ -2,8 +2,8 @@
 layout: post
 title:  "Hello World!"
 author: Russell Johnson
-category: test
-tags: [test]
+category: derp
+tags: 
 ---
 
-Hello World
+Hello World post. This is the content of the post page.

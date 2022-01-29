@@ -2,5 +2,11 @@
 layout: default
 ---
 
-Content Coming Soon.
+# Posts:
 
+{% for post in site.posts %}
+* ## [{{ post.title }}]({{ post.url }})
+###### {{ page.date | date: "%Y %B %-d" }} by {{ post.author}}
+###### Tags: {% for tag in post.tags %} {{tag}}, {% endfor %}
+
+{% endfor %}
